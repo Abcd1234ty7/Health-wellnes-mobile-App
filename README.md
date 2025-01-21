@@ -17,3 +17,6 @@ The app empowers users to take charge of their health by offering a centralized 
 This project showcases expertise in mobile app development, database management, and UI/UX design, reflecting a commitment to creating impactful health tech solutions. 
 
 As you can see, the project showcases my skills that I can create a mobile application for android design.
+There is also a video included under the recording file go ahead and watch it !!! 
+
+PS This application can be run or compiled under android studio .
