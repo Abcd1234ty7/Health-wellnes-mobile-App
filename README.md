@@ -1,3 +1,13 @@
+
+![image](https://github.com/user-attachments/assets/adcd27c8-896b-4641-9d56-31a794a34d99)
+
+
+
+
+
+
+
+
 Health Wellness App
 The Health Wellness App is a mobile application developed using Android Studio, integrated with Java for functionality and SQLite for data storage. This app is designed to help users monitor and improve their health and fitness journey.
 Key Features:
